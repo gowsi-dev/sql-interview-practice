@@ -11,12 +11,12 @@ Interview readiness
 
 Problems are categorized by difficulty:
 ----------------------------
-Easy    |    0
+Easy    |      0
+--------|------------------
+Medium  |      1
+--------|------------------
+Hard    |      0
 ---------------------------
-Medium  |    1
----------------------------
-Hard    |    0
-----------------------------
 
 #Each solution includes:
 Problem summary
