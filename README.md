@@ -10,9 +10,12 @@ Interview readiness
 📌 Structure
 
 Problems are categorized by difficulty:
-Easy
-Medium
-Hard
+----------------------------
+Easy    |    0
+--------|-------------------
+Medium  |    1
+--------|-------------------
+Hard    |    0
 
 #Each solution includes:
 Problem summary
