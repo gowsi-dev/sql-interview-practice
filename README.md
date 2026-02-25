@@ -1,4 +1,4 @@
-#SQL Interview Practice Repository
+📊 SQL Interview Practice Repository
 
 This repository contains my daily SQL problem-solving practice from platforms like StrataScratch.
 
