@@ -36,6 +36,6 @@ Solve 100+ SQL problems to strengthen data analysis and backend querying skills.
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 0      |
-| Medium     | 2      |
+| Easy       | 1      |
+| Medium     | 3      |
 | Hard       | 0      |
