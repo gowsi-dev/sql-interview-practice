@@ -38,4 +38,4 @@ Solve 100+ SQL problems to strengthen data analysis and backend querying skills.
 |------------|--------|
 | Easy       | 1      |
 | Medium     | 3      |
-| Hard       | 1      |
+| Hard       | 2      |
